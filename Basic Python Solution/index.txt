@@ -1,0 +1,6 @@
+Conditional statements & loops
+Dictionary
+Functions
+Int, Float, Bool & Complex
+List
+String
