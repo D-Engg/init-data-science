@@ -1,2 +1,0 @@
-Contains solutions to the uploded problems.
-.py files has been uploaded for better ease of working.
