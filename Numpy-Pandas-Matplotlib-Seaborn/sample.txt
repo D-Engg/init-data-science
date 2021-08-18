@@ -1,1 +1,2 @@
 Basic work with Pandas, Seaborn, numpy & matplotlib
+Mainly stats related works
